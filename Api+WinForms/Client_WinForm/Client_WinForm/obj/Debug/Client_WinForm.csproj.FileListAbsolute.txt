@@ -1,0 +1,60 @@
+S:\אסתי איבגי\PROJECT\Client_WinForm\Client_WinForm\bin\Debug\Client_WinForm.exe.config
+S:\אסתי איבגי\PROJECT\Client_WinForm\Client_WinForm\bin\Debug\Client_WinForm.exe
+S:\אסתי איבגי\PROJECT\Client_WinForm\Client_WinForm\bin\Debug\Client_WinForm.pdb
+S:\אסתי איבגי\PROJECT\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.Entrance.resources
+S:\אסתי איבגי\PROJECT\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.Properties.Resources.resources
+S:\אסתי איבגי\PROJECT\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.csproj.GenerateResource.cache
+S:\אסתי איבגי\PROJECT\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.csproj.CoreCompileInputs.cache
+S:\אסתי איבגי\PROJECT\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.exe
+S:\אסתי איבגי\PROJECT\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.pdb
+S:\אסתי איבגי\PROJECT\Client_WinForm\Client_WinForm\bin\Debug\Newtonsoft.Json.dll
+S:\אסתי איבגי\PROJECT\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.ChoosingPartner.resources
+S:\אסתי איבגי\PROJECT\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.csproj.CopyComplete
+S:\אסתי איבגי\PROJECT\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.csprojAssemblyReference.cache
+S:\אסתי איבגי\PROJECT\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.Forms.Game.resources
+S:\אסתי איבגי\PROJECT\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.Forms.HavingPartner.resources
+E:\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.csprojAssemblyReference.cache
+E:\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.ChoosingPartner.resources
+E:\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.Entrance.resources
+E:\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.Forms.Game.resources
+E:\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.Forms.HavingPartner.resources
+E:\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.Properties.Resources.resources
+E:\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.csproj.GenerateResource.cache
+E:\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.csproj.CoreCompileInputs.cache
+E:\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.exe
+E:\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.pdb
+E:\Client_WinForm\Client_WinForm\bin\Debug\Client_WinForm.exe.config
+E:\Client_WinForm\Client_WinForm\bin\Debug\Client_WinForm.exe
+E:\Client_WinForm\Client_WinForm\bin\Debug\Client_WinForm.pdb
+E:\Client_WinForm\Client_WinForm\bin\Debug\Newtonsoft.Json.dll
+E:\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.csproj.CopyComplete
+E:\תיקיה חדשה\Client_WinForm\Client_WinForm\bin\Debug\Client_WinForm.exe.config
+E:\תיקיה חדשה\Client_WinForm\Client_WinForm\bin\Debug\Client_WinForm.exe
+E:\תיקיה חדשה\Client_WinForm\Client_WinForm\bin\Debug\Client_WinForm.pdb
+E:\תיקיה חדשה\Client_WinForm\Client_WinForm\bin\Debug\Newtonsoft.Json.dll
+E:\תיקיה חדשה\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.csprojAssemblyReference.cache
+E:\תיקיה חדשה\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.ChoosingPartner.resources
+E:\תיקיה חדשה\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.Entrance.resources
+E:\תיקיה חדשה\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.Forms.Game.resources
+E:\תיקיה חדשה\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.Forms.HavingPartner.resources
+E:\תיקיה חדשה\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.Properties.Resources.resources
+E:\תיקיה חדשה\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.csproj.GenerateResource.cache
+E:\תיקיה חדשה\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.csproj.CoreCompileInputs.cache
+E:\תיקיה חדשה\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.csproj.CopyComplete
+E:\תיקיה חדשה\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.exe
+E:\תיקיה חדשה\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.pdb
+C:\Users\Libi\Desktop\Client_WinForm\Client_WinForm\bin\Debug\Client_WinForm.exe.config
+C:\Users\Libi\Desktop\Client_WinForm\Client_WinForm\bin\Debug\Client_WinForm.exe
+C:\Users\Libi\Desktop\Client_WinForm\Client_WinForm\bin\Debug\Client_WinForm.pdb
+C:\Users\Libi\Desktop\Client_WinForm\Client_WinForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Libi\Desktop\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.csprojAssemblyReference.cache
+C:\Users\Libi\Desktop\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.ChoosingPartner.resources
+C:\Users\Libi\Desktop\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.Entrance.resources
+C:\Users\Libi\Desktop\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.Forms.Game.resources
+C:\Users\Libi\Desktop\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.Forms.HavingPartner.resources
+C:\Users\Libi\Desktop\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.Properties.Resources.resources
+C:\Users\Libi\Desktop\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.csproj.GenerateResource.cache
+C:\Users\Libi\Desktop\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Libi\Desktop\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.csproj.CopyComplete
+C:\Users\Libi\Desktop\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.exe
+C:\Users\Libi\Desktop\Client_WinForm\Client_WinForm\obj\Debug\Client_WinForm.pdb

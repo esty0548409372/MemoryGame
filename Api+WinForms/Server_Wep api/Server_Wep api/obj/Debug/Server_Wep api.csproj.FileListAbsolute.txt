@@ -1,0 +1,291 @@
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\ApplicationInsights.config
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\Server_Wep api.dll.config
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\Server_Wep api.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\Server_Wep api.pdb
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\csc.exe
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\csc.exe.config
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\csc.rsp
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\csi.exe
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\csi.exe.config
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\csi.rsp
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\System.AppContext.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\System.Console.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\System.IO.Compression.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\System.IO.Pipes.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\System.Security.Claims.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\System.ValueTuple.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\System.Xml.XPath.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\vbc.exe
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\vbc.exe.config
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\vbc.rsp
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\VBCSCompiler.exe
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\Antlr3.Runtime.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\Microsoft.AI.Web.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\Microsoft.ApplicationInsights.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\Newtonsoft.Json.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\System.Net.Http.Formatting.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\System.Web.Helpers.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\System.Web.Http.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\System.Web.Http.WebHost.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\System.Web.Mvc.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\System.Web.Optimization.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\System.Web.Razor.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\System.Web.WebPages.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\System.Web.WebPages.Razor.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\WebGrease.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\Newtonsoft.Json.xml
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\System.Net.Http.Formatting.xml
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\System.Web.Helpers.xml
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\System.Web.Http.xml
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\System.Web.Http.WebHost.xml
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\System.Web.Mvc.xml
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\System.Web.Optimization.xml
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\System.Web.Razor.xml
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\System.Web.WebPages.xml
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\System.Web.WebPages.Razor.xml
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\Antlr3.Runtime.pdb
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\Microsoft.AI.Web.xml
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\obj\Debug\Server_Wep api.csprojAssemblyReference.cache
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\obj\Debug\Server_Wep api.csproj.CoreCompileInputs.cache
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\obj\Debug\Server_Wep api.csproj.CopyComplete
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\obj\Debug\Server_Wep api.dll
+C:\Users\seldat\Desktop\Server_Wep api\Server_Wep api\obj\Debug\Server_Wep api.pdb
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\ApplicationInsights.config
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\Server_Wep api.dll.config
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\Server_Wep api.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\Server_Wep api.pdb
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\csc.exe
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\csc.exe.config
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\csc.rsp
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\csi.exe
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\csi.exe.config
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\csi.rsp
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\Microsoft.CodeAnalysis.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\Microsoft.CSharp.Core.targets
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\Microsoft.Managed.Core.targets
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\System.AppContext.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\System.Collections.Immutable.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\System.Console.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\System.Diagnostics.StackTrace.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\System.IO.Compression.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\System.IO.FileSystem.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\System.IO.Pipes.AccessControl.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\System.IO.Pipes.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\System.Reflection.Metadata.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\System.Security.AccessControl.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\System.Security.Claims.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\System.Security.Principal.Windows.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\System.Text.Encoding.CodePages.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\System.ValueTuple.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\System.Xml.ReaderWriter.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\System.Xml.XmlDocument.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\System.Xml.XPath.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\System.Xml.XPath.XDocument.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\vbc.exe
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\vbc.exe.config
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\vbc.rsp
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\VBCSCompiler.exe
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\roslyn\VBCSCompiler.exe.config
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\Antlr3.Runtime.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\Microsoft.AI.Agent.Intercept.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\Microsoft.AI.DependencyCollector.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\Microsoft.AI.PerfCounterCollector.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\Microsoft.AI.Web.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\Microsoft.AI.WindowsServer.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\Microsoft.ApplicationInsights.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\Microsoft.Web.Infrastructure.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\Newtonsoft.Json.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\System.Diagnostics.DiagnosticSource.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\System.Net.Http.Formatting.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\System.Web.Helpers.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\System.Web.Http.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\System.Web.Http.WebHost.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\System.Web.Mvc.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\System.Web.Optimization.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\System.Web.Razor.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\System.Web.WebPages.Deployment.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\System.Web.WebPages.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\System.Web.WebPages.Razor.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\WebGrease.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\Newtonsoft.Json.xml
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\System.Net.Http.Formatting.xml
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\System.Web.Helpers.xml
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\System.Web.Http.xml
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\System.Web.Http.WebHost.xml
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\System.Web.Mvc.xml
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\System.Web.Optimization.xml
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\System.Web.Razor.xml
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\System.Web.WebPages.xml
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\System.Web.WebPages.Deployment.xml
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\System.Web.WebPages.Razor.xml
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\Antlr3.Runtime.pdb
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\System.Diagnostics.DiagnosticSource.xml
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\Microsoft.AI.DependencyCollector.xml
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\Microsoft.AI.WindowsServer.xml
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\Microsoft.AI.Web.xml
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\obj\Debug\Server_Wep api.csprojAssemblyReference.cache
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\obj\Debug\Server_Wep api.csproj.CoreCompileInputs.cache
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\obj\Debug\Server_Wep api.csproj.CopyComplete
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\obj\Debug\Server_Wep api.dll
+S:\אסתי איבגי\Server_Wep api\Server_Wep api\obj\Debug\Server_Wep api.pdb
+E:\Server_Wep api\Server_Wep api\bin\ApplicationInsights.config
+E:\Server_Wep api\Server_Wep api\bin\Server_Wep api.dll.config
+E:\Server_Wep api\Server_Wep api\bin\Server_Wep api.dll
+E:\Server_Wep api\Server_Wep api\bin\Server_Wep api.pdb
+E:\Server_Wep api\Server_Wep api\bin\roslyn\csc.exe
+E:\Server_Wep api\Server_Wep api\bin\roslyn\csc.exe.config
+E:\Server_Wep api\Server_Wep api\bin\roslyn\csc.rsp
+E:\Server_Wep api\Server_Wep api\bin\roslyn\csi.exe
+E:\Server_Wep api\Server_Wep api\bin\roslyn\csi.exe.config
+E:\Server_Wep api\Server_Wep api\bin\roslyn\csi.rsp
+E:\Server_Wep api\Server_Wep api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Server_Wep api\Server_Wep api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Server_Wep api\Server_Wep api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Server_Wep api\Server_Wep api\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Server_Wep api\Server_Wep api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Server_Wep api\Server_Wep api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Server_Wep api\Server_Wep api\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Server_Wep api\Server_Wep api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Server_Wep api\Server_Wep api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Server_Wep api\Server_Wep api\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Server_Wep api\Server_Wep api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Server_Wep api\Server_Wep api\bin\roslyn\System.AppContext.dll
+E:\Server_Wep api\Server_Wep api\bin\roslyn\System.Collections.Immutable.dll
+E:\Server_Wep api\Server_Wep api\bin\roslyn\System.Console.dll
+E:\Server_Wep api\Server_Wep api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Server_Wep api\Server_Wep api\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Server_Wep api\Server_Wep api\bin\roslyn\System.IO.Compression.dll
+E:\Server_Wep api\Server_Wep api\bin\roslyn\System.IO.FileSystem.dll
+E:\Server_Wep api\Server_Wep api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Server_Wep api\Server_Wep api\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Server_Wep api\Server_Wep api\bin\roslyn\System.IO.Pipes.dll
+E:\Server_Wep api\Server_Wep api\bin\roslyn\System.Reflection.Metadata.dll
+E:\Server_Wep api\Server_Wep api\bin\roslyn\System.Security.AccessControl.dll
+E:\Server_Wep api\Server_Wep api\bin\roslyn\System.Security.Claims.dll
+E:\Server_Wep api\Server_Wep api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Server_Wep api\Server_Wep api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Server_Wep api\Server_Wep api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Server_Wep api\Server_Wep api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Server_Wep api\Server_Wep api\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Server_Wep api\Server_Wep api\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Server_Wep api\Server_Wep api\bin\roslyn\System.ValueTuple.dll
+E:\Server_Wep api\Server_Wep api\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Server_Wep api\Server_Wep api\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Server_Wep api\Server_Wep api\bin\roslyn\System.Xml.XPath.dll
+E:\Server_Wep api\Server_Wep api\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Server_Wep api\Server_Wep api\bin\roslyn\vbc.exe
+E:\Server_Wep api\Server_Wep api\bin\roslyn\vbc.exe.config
+E:\Server_Wep api\Server_Wep api\bin\roslyn\vbc.rsp
+E:\Server_Wep api\Server_Wep api\bin\roslyn\VBCSCompiler.exe
+E:\Server_Wep api\Server_Wep api\bin\roslyn\VBCSCompiler.exe.config
+E:\Server_Wep api\Server_Wep api\bin\Antlr3.Runtime.dll
+E:\Server_Wep api\Server_Wep api\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Server_Wep api\Server_Wep api\bin\Microsoft.AI.DependencyCollector.dll
+E:\Server_Wep api\Server_Wep api\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Server_Wep api\Server_Wep api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Server_Wep api\Server_Wep api\bin\Microsoft.AI.Web.dll
+E:\Server_Wep api\Server_Wep api\bin\Microsoft.AI.WindowsServer.dll
+E:\Server_Wep api\Server_Wep api\bin\Microsoft.ApplicationInsights.dll
+E:\Server_Wep api\Server_Wep api\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Server_Wep api\Server_Wep api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Server_Wep api\Server_Wep api\bin\Microsoft.Web.Infrastructure.dll
+E:\Server_Wep api\Server_Wep api\bin\Newtonsoft.Json.dll
+E:\Server_Wep api\Server_Wep api\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Server_Wep api\Server_Wep api\bin\System.Net.Http.Formatting.dll
+E:\Server_Wep api\Server_Wep api\bin\System.Web.Helpers.dll
+E:\Server_Wep api\Server_Wep api\bin\System.Web.Http.dll
+E:\Server_Wep api\Server_Wep api\bin\System.Web.Http.WebHost.dll
+E:\Server_Wep api\Server_Wep api\bin\System.Web.Mvc.dll
+E:\Server_Wep api\Server_Wep api\bin\System.Web.Optimization.dll
+E:\Server_Wep api\Server_Wep api\bin\System.Web.Razor.dll
+E:\Server_Wep api\Server_Wep api\bin\System.Web.WebPages.Deployment.dll
+E:\Server_Wep api\Server_Wep api\bin\System.Web.WebPages.dll
+E:\Server_Wep api\Server_Wep api\bin\System.Web.WebPages.Razor.dll
+E:\Server_Wep api\Server_Wep api\bin\WebGrease.dll
+E:\Server_Wep api\Server_Wep api\bin\Newtonsoft.Json.xml
+E:\Server_Wep api\Server_Wep api\bin\System.Net.Http.Formatting.xml
+E:\Server_Wep api\Server_Wep api\bin\System.Web.Helpers.xml
+E:\Server_Wep api\Server_Wep api\bin\System.Web.Http.xml
+E:\Server_Wep api\Server_Wep api\bin\System.Web.Http.WebHost.xml
+E:\Server_Wep api\Server_Wep api\bin\System.Web.Mvc.xml
+E:\Server_Wep api\Server_Wep api\bin\System.Web.Optimization.xml
+E:\Server_Wep api\Server_Wep api\bin\System.Web.Razor.xml
+E:\Server_Wep api\Server_Wep api\bin\System.Web.WebPages.xml
+E:\Server_Wep api\Server_Wep api\bin\System.Web.WebPages.Deployment.xml
+E:\Server_Wep api\Server_Wep api\bin\System.Web.WebPages.Razor.xml
+E:\Server_Wep api\Server_Wep api\bin\Antlr3.Runtime.pdb
+E:\Server_Wep api\Server_Wep api\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Server_Wep api\Server_Wep api\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Server_Wep api\Server_Wep api\bin\Microsoft.AI.DependencyCollector.xml
+E:\Server_Wep api\Server_Wep api\bin\Microsoft.AI.WindowsServer.xml
+E:\Server_Wep api\Server_Wep api\bin\Microsoft.AI.Web.xml
+E:\Server_Wep api\Server_Wep api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Server_Wep api\Server_Wep api\obj\Debug\Server_Wep api.csprojAssemblyReference.cache
+E:\Server_Wep api\Server_Wep api\obj\Debug\Server_Wep api.csproj.CoreCompileInputs.cache
+E:\Server_Wep api\Server_Wep api\obj\Debug\Server_Wep api.csproj.CopyComplete
+E:\Server_Wep api\Server_Wep api\obj\Debug\Server_Wep api.dll
+E:\Server_Wep api\Server_Wep api\obj\Debug\Server_Wep api.pdb
