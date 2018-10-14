@@ -2,11 +2,13 @@
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.IO;
 using System.Net;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Text;
+using System.Threading;
 using System.Windows.Forms;
 
 namespace Client_WinForm.Forms
@@ -70,7 +72,7 @@ namespace Client_WinForm.Forms
                 CardsList.Add(item.Name, item.Value.Value);
             }
             int index = 0;
-            int countCatchPairs = 0 ;
+            int countCatchPairs = 0;
             foreach (var item in CardsList)
             {
                 for (int i = 0; i < 2; i++)
@@ -81,6 +83,9 @@ namespace Client_WinForm.Forms
                     if (item.Value != null)
                     {
                         ((Button)cardsGroupBox.Controls[index]).Enabled = false;
+                        if (item.Value == Global.CurrentUser.UserName)
+                            ((Button)cardsGroupBox.Controls[index]).BackColor = Color.Red;
+                        else ((Button)cardsGroupBox.Controls[index]).BackColor = Color.Green;
                     }
                     index++;
                 }
@@ -88,17 +93,21 @@ namespace Client_WinForm.Forms
                     countCatchPairs++;
             }
             if (countCatchPairs == 9)
+            {
+                getAllCardsTMR.Enabled = false;
                 GameOver();
+            }
         }
 
         public void GameOver()
         {
-            if(Global.CurrentUser.Score>4)
+            if (Global.CurrentUser.Score > 4)
             {
-                MessageBox.Show("You are the winner (: !!!!!  your score is:"+Global.CurrentUser.Score.ToString());
+                MessageBox.Show("You are the winner (: !!!!!  your score is:" + Global.CurrentUser.Score.ToString());
             }
             else MessageBox.Show("Your partner is the winner ):  your score is:" + Global.CurrentUser.Score.ToString());
-
+            Thread.Sleep(3000);
+            Close();
         }
 
         private void timer1_Tick(object sender, EventArgs e)
@@ -143,9 +152,13 @@ namespace Client_WinForm.Forms
                             label1.Text = Global.CurrentUser.Score.ToString();
                             MessageBox.Show("TRUE!!!!");
                             CardsList[clickedBtnTxt] = Global.CurrentUser.UserName;
-                            Global.CurrentUser.Score++;
-                            getAllCardsTMR.Enabled = true;
+
                         }
+                        else
+                        {
+                            MessageBox.Show("FALSE!!!!");
+                        }
+                        getAllCardsTMR.Enabled = true;
                     }
                     else MessageBox.Show(result);
                 }

@@ -65,13 +65,6 @@ namespace Server_Wep_api.Controllers
                     lock (currentGame)
                     {
                         currentGame.CardArray[card1] = currentTurn;
-                        //foreach (var item in currentGame.CardArray)
-                        //{
-                        //    if (item.Value==null)
-                        //    {
-                        //        return Request.CreateResponse(HttpStatusCode.OK, "ok");
-                        //    }
-                        //}
                     }
                     return Request.CreateResponse(HttpStatusCode.OK, "ok");
                 }

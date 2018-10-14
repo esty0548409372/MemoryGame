@@ -307,7 +307,7 @@
             // getAllCardsTMR
             // 
             this.getAllCardsTMR.Enabled = true;
-            this.getAllCardsTMR.Interval = 1000;
+            this.getAllCardsTMR.Interval = 500;
             this.getAllCardsTMR.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // scoreLBL
@@ -342,7 +342,7 @@
             this.Controls.Add(this.crntLBL);
             this.Controls.Add(this.helloLBL);
             this.Name = "Game";
-            this.Text = "Game";
+            this.Text = " ";
             this.cardsGroupBox.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();

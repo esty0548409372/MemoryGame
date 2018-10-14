@@ -23,6 +23,9 @@ namespace Server_Wep_api.Controllers
             {
                 lock (Global.UsersList)
                 {
+                    //check if userName is exist
+                    if (Global.UsersList.Any(p=>p.UserName==newUser.UserName))
+                        return Request.CreateResponse(HttpStatusCode.OK,"false" );
                     Global.UsersList.Add(newUser);
                 }
 
@@ -101,11 +104,6 @@ namespace Server_Wep_api.Controllers
             }
             return Request.CreateResponse(HttpStatusCode.OK, "ok");
         }
-
-        //createNewGame - craete a new Game object with the 2 users as players, and the current userName as the CurrentTurn.
-        //add the new game to the GamesList.
-        //If the creating completed succefuly - return ok"
-        //Else - return a matching error.
        
     }
 }

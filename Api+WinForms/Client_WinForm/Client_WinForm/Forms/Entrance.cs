@@ -1,13 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
 using System.Net;
-using System.Net.Http;
 using System.Text;
 using System.Windows.Forms;
 using Client_WinForm.Models;
 using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
 
 namespace Client_WinForm
 {
@@ -34,17 +31,26 @@ namespace Client_WinForm
         }
         public void checkValidAge(object sender, EventArgs e)
         {
+            int parsedValue;
             if (ageTXT.Text != "")
-                if (Convert.ToInt32(ageTXT.Text) < 18 || Convert.ToInt32(ageTXT.Text) > 120)
+            {
+                if (!int.TryParse(ageTXT.Text, out parsedValue))
+                {
+                    MessageBox.Show("This is a number only field");
+                    ageTXT.Text = "";
+                }
+                else if (Convert.ToInt32(ageTXT.Text) < 18 || Convert.ToInt32(ageTXT.Text) > 120)
                 {
                     errorProvider1.SetError(ageTXT, "age must be between 18-120");
+                    ageTXT.Text = "";
                 }
-                else
-                {
-                    errorProvider1.Clear();
-                    if (nameTXT.Text.Length >= 2 || nameTXT.Text.Length <= 10)
-                        signInBTN.Enabled = true;
-                }
+            }
+            else
+            {
+                errorProvider1.Clear();
+                if (nameTXT.Text.Length >= 2 || nameTXT.Text.Length <= 10)
+                    signInBTN.Enabled = true;
+            }
         }
 
         private void signInBTN_Click(object sender, EventArgs e)
@@ -73,6 +79,13 @@ namespace Client_WinForm
                     ChoosingPartner choosePartner = new ChoosingPartner();
                     Global.CurrentUser = credential;
                     choosePartner.Show();
+                }
+                else if (result.Contains("false"))
+                {
+                    MessageBox.Show("An existing user name on the system");
+                    ageTXT.Text = "";
+                    nameTXT.Text = "";
+                    signInBTN.Enabled = false;
                 }
                 else MessageBox.Show(result);
             }
